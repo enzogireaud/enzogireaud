@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chaddevelopper" target="blank"><img src="https://img.shields.io/twitter/follow/chaddevelopper?logo=twitter&style=for-the-badge" alt="chaddevelopper" /></a> </p>
 
-- 🔭 I’m currently working on [a music app](no-link-for-now)
+- 🔭 I’m currently working at [Ecovelo](no-link-for-now)
 
 - 🌱 I’m currently learning **Angular, Webgl, Sveltekit, ...**
 
