@@ -7,21 +7,14 @@
 
 - 🔭 I’m currently working at [Ecovelo](https://www.ecovelo.com/)
 
-- 🌱 I’m currently learning **Angular, Webgl, Sveltekit, ...**
+- 🌱 I’m currently working with **Angular, Capacitor, Python...**
 
 - 👨‍💻 All of my projects are available at [https://next-portfolio-roan-five.vercel.app/](https://next-portfolio-roan-five.vercel.app/)
 
-- 💬 Ask me about **React, Svelte, Typescript**
-
 - 📫 How to reach me **enzogireauds@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/h41lrapn2p](https://flowcv.com/resume/h41lrapn2p)
-
-- ⚡ Fun fact **I like sport alot (a bit too much)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chaddevelopper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaddevelopper" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/enzo gireaud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzo gireaud" height="30" width="40" /></a>
 <a href="https://instagram.com/furasshujipushii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="furasshujipushii" height="30" width="40" /></a>
 </p>
